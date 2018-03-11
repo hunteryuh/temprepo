@@ -1,19 +1,19 @@
 # TipCalculator User Manual
 
 
-##Introduction
+## Introduction
 
 This app is a tip calculator that computes how much tip and total **_each person_** should pay when splitting the check. 
 
 Inputs are the amount of the check and the number of people splitting the check. Outputs are the amount of tip and total per person in case of **_15%, 20% and 25%_** tip amount, assuming people split the check evenly. Outputs are rounded to the closest integer. 
 
 
-##Audience
+## Audience
 
 This app is used in the envieronment of service industry such as in a restaurant, for the convenience of customers to know how much to pay or for the convenience of seller to know the amount of money to charge. 
 
 
-##Installation
+## Installation
 
 This app is available on the following platforms:
  - **_Android 4.4_** and above. Downloading website: [play store](http://play.google.com/store)
@@ -21,13 +21,13 @@ This app is available on the following platforms:
  - minimum API level is **_19_**.
  
 
-##User Interface
+## User Interface
 
 Run the app, you will see this page. 
 
 ![interface](interface.png)
 
-##Instructions
+## Instructions
 
 **Step 1:** Input **Check amount** and **Party size** in the text fields highlighted in the red box in the figure below, and click  button `COMPUTE TIP`. The figure below inputs numbers as an example of 3 people sharing a check of $50.68. 
 
@@ -42,15 +42,15 @@ Run the app, you will see this page.
 ![warning](warning.png)
 
 
-##Evaluation
+## Evaluation
 The accuracy of this app can be evaluated by checking the reuslts against those at <https://www.google.com/#q=tip+calculator>.
 
 
-##Release Information
+## Release Information
 
 This is v1.0 version. Update coming soon.
 
 
-##License
+## License
 
 This is a free software. No license is needed. Please enjoy! :+1: :yum:
