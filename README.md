@@ -1,4 +1,4 @@
-#TipCalculator User Manual
+# TipCalculator User Manual
 
 
 ##Introduction
